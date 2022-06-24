@@ -10,8 +10,8 @@ The “build.js” file describes many actions and combinations the game can pro
 - Then we simulate the rotation of the drum by sending the request "doSpin"
 - In case of a win (tw > 0), we send a request to update the balance "doCollect" and then again "spin the drum" "doSpin"
 
-Postman Collection `https://www.getpostman.com/collections/c2f9dd39a4347d7dc242`
-Checklist `https://docs.google.com/spreadsheets/d/1KRZN9jVFEtDLodIqr7IVn9_EdpGdZC6qAzkL1oM56r8/edit?usp=sharing`
+Postman Collection (https://www.getpostman.com/collections/c2f9dd39a4347d7dc242)
+Checklist (https://docs.google.com/spreadsheets/d/1KRZN9jVFEtDLodIqr7IVn9_EdpGdZC6qAzkL1oM56r8/edit?usp=sharing)
 
 There are also errors in the response body:
 "undefined (action invalid)"
